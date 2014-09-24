@@ -8,3 +8,4 @@ para seguirmos.
 
  - Mapa de profissionais PHP 
  - Vagas de emprego
+ - Eventos de PHP
