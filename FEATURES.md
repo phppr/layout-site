@@ -7,3 +7,4 @@ para seguirmos.
 ##Features
 
  - Mapa de profissionais PHP 
+ - Vagas de emprego
