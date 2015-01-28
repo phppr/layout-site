@@ -26,6 +26,10 @@ Não, como uma comunidade não seria justo cobrar taxa alguma para que o profiss
 
 Um visitante do site (membro ou não da comunidade) preenche seus dados cadastrais, ou realiza login e informa seu endereço completo selecionando se deseja que o mesmo apareça de forma íntegra ou não no mapa (por questões de privacidade).
 
+####Requerimentos
+
+Perfil no Github ou portfólio.
+
 
 ####Exibição
 
